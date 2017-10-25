@@ -17,3 +17,5 @@ mkdir -p build && cd build/
 ../configure --prefix=/usr --sysconfdir=/etc --disable-sanitizers
 make
 sudo make install
+
+sudo dnf install -y feh
