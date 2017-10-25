@@ -9,3 +9,4 @@ fi
 # export SYSTEMD_PAGER=
 
 # User specific aliases and functions
+alias gitaa='git add $(ls -a | grep -v ".." )'
