@@ -14,3 +14,4 @@ XOFF=0
 
 #fields to be displayed
 FIELDS=SSID,SECURITY,BARS
+rofi.theme: /usr/share//rofi/themes//lb.rasi
