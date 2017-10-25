@@ -19,3 +19,7 @@ make
 sudo make install
 
 sudo dnf install -y feh
+
+# Download wallpapers
+mkdir -p ~/Wallpapers
+wget -O ~/Wallpapers/clean_rick.png https://i.imgur.com/ePaUAi6.png
