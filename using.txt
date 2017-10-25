@@ -1,3 +1,6 @@
 git
 hub
 i3-gaps
+vim
+vim-plug
+YouCompleteMe
