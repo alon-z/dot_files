@@ -4,3 +4,6 @@ i3-gaps
 vim
 vim-plug
 YouCompleteMe
+rofi
+https://github.com/zbaylin/rofi-wifi-menu
+xbacklight

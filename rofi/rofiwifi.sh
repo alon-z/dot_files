@@ -11,9 +11,9 @@ if [ ! -r "$DIR/config" ]; then
 	POSITION=0
 	YOFF=0
 	XOFF=0
-elif [ -r "$DIR/config" ]; then
+elif [ -r "$DIR/config_wifi" ]; then
 	# Get values from config
-	source ./config
+	source ./config_wifi
 #	FIELDS=$(grep "fields=" config | awk -F "=" {'print $2'})
 #	POSITION=$(grep "position=" config | awk -F "=" {'print $2'})
 #	YOFF=$(grep "yoffset=" config | awk -F "=" {'print $2'})
