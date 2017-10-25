@@ -155,4 +155,9 @@ bar {
         status_command i3status
 }
 
+
+# Sreen brightness controls
+bindsym XF86MonBrightnessUp exec . ~/.config/i3/backlight.sh up # increase screen brightness
+bindsym XF86MonBrightnessDown exec . ~/.config/i3/backlight.sh down # decrease screen brightness
+
 exec --no-startup-id feh --bg-fill ~/Wallpapers/clean_rick.png
