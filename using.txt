@@ -7,3 +7,4 @@ YouCompleteMe
 rofi
 https://github.com/zbaylin/rofi-wifi-menu
 xbacklight
+polybar
