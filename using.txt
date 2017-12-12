@@ -2,9 +2,11 @@ git
 hub
 i3-gaps
 vim
-vim-plug
-YouCompleteMe
+#vim-plug
+#YouCompleteMe
+spacevim
 rofi
 https://github.com/zbaylin/rofi-wifi-menu
 xbacklight
 polybar
+https://github.com/ryanoasis/nerd-fonts
